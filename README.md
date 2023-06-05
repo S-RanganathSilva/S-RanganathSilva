@@ -82,10 +82,10 @@
 <p align="left">
 <a href="https://github.com/S-RanganathSilva"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-RanganathSilva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/></p>
  
-<p align="center">
+<p align="left">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S-RanganathSilva&theme=tokyonight&hide_border=false"/> </p>
 
-<p align="right">
+<p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-RanganathSilva&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> </p>
 
 

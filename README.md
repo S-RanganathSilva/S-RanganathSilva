@@ -74,7 +74,7 @@
 <br>
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S-RanganathSilva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S-RanganathSilva" height="30" /></a>
 <a href="sankalparanganath@gmail.com"><img alt="S-RanganathSilva" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail" alt="S-RanganathSilva" height="30" ></a>
 <br><br><br>
 

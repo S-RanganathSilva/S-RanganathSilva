@@ -19,7 +19,7 @@
  
 ## 💻 Skill Set:
 
-
+<!--
 ### 🚀 Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -72,6 +72,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <br>
+-->
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S-RanganathSilva" height="30" /></a>

@@ -2,19 +2,16 @@
 <img src="https://visitcount.itsvg.in/api?id=S-RanganathSilva&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a></h2>
 
-# <p align="center">Hi There! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+# <p align="center">Hi There! I'm SR Silva,<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 </p>
-<h2 align="center">I'm SR Silva, 👩‍💻</h2>     
+   
 <br>🎓 3rd Year Undergraduate student at SLTC Research University
 <br>🔭 Working on 
 <br>🧠 Currently I'm learning 
 <br>🤝 I'm open to collaborate on interesting projects
-<br>✉️ You can contact me at **sankalparanganath@gmail.com** 
-<a href="sankalparanganath@gmail.com"><img alt="S-RanganathSilva" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail" alt="S-RanganathSilva" height="30" ></a>
+<br>✉️ You can contact me at **sankalparanganath@gmail.com**
+<a href="sankalparanganath@gmail.com"><img alt="S-RanganathSilva" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail" alt="S-RanganathSilva" height="20" ></a>
 <br><br><br>
-<br>
-<br>
-
  
 ## 💻 Skill Set:
 
@@ -70,11 +67,13 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-<br>
 -->
+<br>
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S-RanganathSilva" height="30" /></a>
+<br><br>
 
 
 ## 📊 GitHub Stats:
@@ -94,7 +93,7 @@
 <div  align="center">
 <br>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishadiS&theme=tokyonight&nocolumn=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=S-RanganathSilva&theme=tokyonight&nocolumn=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <br>
   
@@ -105,13 +104,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-  ---
- <h2 align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=60&section=header&text=&&%E2%80%99%20&&&fontSize=90)
-</h2>
-<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

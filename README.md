@@ -73,18 +73,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <br>
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="65"/> 
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="65" height="65"/>
-</div>
-
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S-RanganathSilva" height="30" width="40" /></a>
 <a href="sankalparanganath@gmail.com"><img alt="S-RanganathSilva" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail" alt="S-RanganathSilva" height="30" ></a>

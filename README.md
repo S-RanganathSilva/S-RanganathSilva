@@ -2,20 +2,19 @@
 <img src="https://visitcount.itsvg.in/api?id=S-RanganathSilva&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a></h2>
 
----
-
 # <p align="center">Hi There! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 </p>
-<h2 align="center">I'm SR Silva, a passionate coder & Cyber Security enthusiast. 👩‍💻</h2>     
+<h2 align="center">I'm SR Silva, 👩‍💻</h2>     
 <br>🎓 3rd Year Undergraduate student at SLTC Research University
-<br>🔭 Working on honing my skills in Cyber Security and conducting research projects
-<br>🧠 Currently I'm learning Advanced techniques in Ethical Hacking and Network Security
+<br>🔭 Working on 
+<br>🧠 Currently I'm learning 
 <br>🤝 I'm open to collaborate on interesting projects
-<br>✉️ You can contact me at **sankalparanganath@gmail.com**
+<br>✉️ You can contact me at **sankalparanganath@gmail.com** 
+<a href="sankalparanganath@gmail.com"><img alt="S-RanganathSilva" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail" alt="S-RanganathSilva" height="30" ></a>
+<br><br><br>
 <br>
 <br>
 
- ---
  
 ## 💻 Skill Set:
 
@@ -76,8 +75,6 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S-RanganathSilva" height="30" /></a>
-<a href="sankalparanganath@gmail.com"><img alt="S-RanganathSilva" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail" alt="S-RanganathSilva" height="30" ></a>
-<br><br><br>
 
 
 ## 📊 GitHub Stats:

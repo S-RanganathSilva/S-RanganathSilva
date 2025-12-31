@@ -89,34 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-📈 My GitHub activity reflects hands-on learning, cybersecurity labs, academic projects, and system engineering work.
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-RanganathSilva&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="left">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S-RanganathSilva&theme=tokyonight"/>
-</p>
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-RanganathSilva&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-🏅 These trophies highlight consistency, learning progress, and open-source contributions across my GitHub journey.
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=S-RanganathSilva&theme=tokyonight&nocolumn=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ## 🎥 Tech Content & Knowledge Sharing
 
 I share **technology and cybersecurity-related content** on my YouTube channel, focusing on:

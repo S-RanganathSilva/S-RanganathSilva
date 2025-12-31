@@ -72,15 +72,26 @@
 
 
 ---
+## 🌐 Socials & Content
 
-## 🌐 Socials
+<p>
 <a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
 </a>
+&nbsp;&nbsp;
+<a href="https://youtube.com/@mrtechne?si=N9dqel-SL2woo0F1" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
+</a>
+</p>
+
+🔹 **LinkedIn** – Professional updates, cybersecurity learning journey, and career milestones  
+🔹 **YouTube (MrTechne)** – Tech tutorials, cybersecurity basics, labs, and practical demos  
 
 ---
 
 ## 📊 GitHub Stats
+
+📈 My GitHub activity reflects hands-on learning, cybersecurity labs, academic projects, and system engineering work.
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-RanganathSilva&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -97,13 +108,31 @@
 ---
 
 ## 🏆 GitHub Trophies
+
+🏅 These trophies highlight consistency, learning progress, and open-source contributions across my GitHub journey.
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=S-RanganathSilva&theme=tokyonight&nocolumn=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
+## 🎥 Tech Content & Knowledge Sharing
+
+I share **technology and cybersecurity-related content** on my YouTube channel, focusing on:
+- Cybersecurity fundamentals
+- Linux & Kali Linux tutorials
+- Networking & security labs
+- Tool walkthroughs and demos
+
+📺 **YouTube:** [MrTechne](https://youtube.com/@mrtechne)
+
+---
+
 ## ✍️ Random Dev Quote
+
+💡 A little inspiration that keeps me motivated while learning, building, and breaking things securely.
+
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>

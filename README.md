@@ -4,11 +4,12 @@
 </a>
 </h2>
 
-# <p align="center">Hi There! I'm SR Silva 👋</p>
+# <p align="center">Hi There! I'm Sankalpa Silva 👋</p>
 
 <p align="center">
-🎓 3rd Year Undergraduate | SLTC Research University <br>
+🎓 Graduate | Sri Lanka Technological Campus (SLTC) <br>
 🛡️ Aspiring Cybersecurity Professional | System & Network Security <br>
+💼 **Former System Engineer at Innovar Private Limited**
 </p>
 
 ---
@@ -16,9 +17,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Graduate in Cyber Security at **Sri Lanka Technological Campus (SLTC)**
-- 🔭 Currently working on **Firewalls,Cybersecurity labs, network security projects, and system hardening**
+- 🔭 Currently working on **Firewalls, Cybersecurity labs, network security projects, and system Enginnering**
 - 🧠 Actively learning **Cybersecurity, Ethical Hacking, Cloud Security, and SOC operations**
 - 🤝 Open to collaborate on **Cybersecurity, Networking, Automation, and Open-Source projects**
+- 💼 **Former System Engineer at Innovar Private Limited**
 - ✉️ Reach me at **sankalparanganath@gmail.com**
 
 <a href="mailto:sankalparanganath@gmail.com">
@@ -42,13 +44,11 @@
 - Java
 - C
 - JavaScript
-- PHP
 
 ### 🌐 Web & Application Technologies
 - HTML5, CSS3
 - React (Basic)
 - Node.js
-- Bootstrap, Tailwind CSS
 
 ### 🗄️ Databases
 - MySQL
@@ -60,9 +60,7 @@
 - AWS
 - Microsoft Azure
 - Google Cloud Platform
-- Oracle Cloud
-- Firebase
-- GitHub Pages
+
 
 ### 🖥️ Systems & Tools
 - Linux

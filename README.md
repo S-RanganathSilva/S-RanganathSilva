@@ -72,7 +72,7 @@
 
 
 ---
-## 🌐 Socials & Content
+## 🌐 Socials
 
 <p>
 <a href="https://www.linkedin.com/in/sankalpa-ranganath-silva-a7579820a/" target="_blank">
@@ -80,12 +80,12 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://youtube.com/@mrtechne?si=N9dqel-SL2woo0F1" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" />
 </a>
 </p>
 
-🔹 **LinkedIn** – Professional updates, cybersecurity learning journey, and career milestones  
-🔹 **YouTube (MrTechne)** – Tech tutorials, cybersecurity basics, labs, and practical demos  
+🔹 **LinkedIn** – Professional profile, career updates, and cybersecurity journey  
+🔹 **YouTube (MrTechne)** – Cybersecurity tutorials, Linux labs, networking & security demos  
 
 ---
 

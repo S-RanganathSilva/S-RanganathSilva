@@ -34,10 +34,10 @@
 ### 🛡️ Cybersecurity & Networking
 - Network Security & Firewalls  
 - Endpoint Protection (Sophos, Kaspersky – academic & lab experience)  
-- Threat Detection & Malware Analysis (Basic)  
-- Vulnerability Assessment & System Hardening  
+- Threat Detection & Malware Analysis   
+- Vulnerability Assessment & System Hardening 
 - Linux & Windows Security  
-- SOC Fundamentals & Incident Response (Beginner)
+- SOC Fundamentals & Incident Response 
 
 ### ⚙️ Programming & Scripting
 - Python (Automation & Security Scripts)
@@ -59,15 +59,17 @@
 ### ☁️ Cloud & Hosting
 - AWS
 - Microsoft Azure
-- Google Cloud Platform
+- Google Cloud Platform 
 
 
-### 🖥️ Systems & Tools
-- Linux
-- Apache Server
-- Postman
-- Arduino & Raspberry Pi
-- Git & GitHub
+### 🔐 Cybersecurity Skills & Tools
+- **Offensive Security:** Kali Linux, Metasploit, Nmap, Burp Suite, SQLmap, Hydra, Wireshark  
+- **Vulnerability Scanning:** OpenVAS, Nessus (basic)  
+- **Network Security:** Firewalls (pfSense), VPNs (IPSec, SSL), Proxy Servers  
+- **SOC & IR:** SIEM fundamentals, Log Analysis, Incident Response (ISC²-aligned)  
+- **Malware Analysis:** Static & Dynamic Analysis, ML-based Detection (Academic)  
+- **Platforms:** Linux (Kali, Ubuntu), Windows Server (Basic)  
+
 
 ---
 

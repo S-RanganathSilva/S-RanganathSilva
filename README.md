@@ -9,7 +9,7 @@
 <p align="center">
 🎓 Graduate | Sri Lanka Technological Campus (SLTC) <br>
 🛡️ Aspiring Cybersecurity Professional | System & Network Security <br>
-💼 **Former System Engineer at Innovar Private Limited**
+💼 **System Engineer at Innovar Private Limited**
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🔭 Currently working on **Firewalls, Cybersecurity labs, network security projects, and system Enginnering**
 - 🧠 Actively learning **Cybersecurity, Ethical Hacking, Cloud Security, and SOC operations**
 - 🤝 Open to collaborate on **Cybersecurity, Networking, Automation, and Open-Source projects**
-- 💼 **Former System Engineer at Innovar Private Limited**
+- 💼 **System Engineer at Innovar Private Limited**
 - ✉️ Reach me at **sankalparanganath@gmail.com**
 
 <a href="mailto:sankalparanganath@gmail.com">
